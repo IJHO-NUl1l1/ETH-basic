@@ -1,0 +1,9 @@
+# Node modules 
+node_modules/ 
+# Logs 
+logs 
+*.log 
+npm-debug.log* 
+# 기타 설정에 따라 제외할 파일들 
+.DS_Store 
+"ethereum-account-practice/" 
